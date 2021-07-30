@@ -27,7 +27,7 @@ b
 }
 body
 {   
-	background: url("/Users/ranju/Documents/GitHub/MyLoveForTinder/love5.jpg");
+	background: url("love5.jpg");
 	background-size: 100%;
 	/*background-attachment: fixed;
 	background-position: no-repeat;*/
