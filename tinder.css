@@ -1,0 +1,52 @@
+form{
+	font-family: avenir;
+	color: black;
+	font-style: italic;
+}
+
+div.main
+{
+width: 500px;
+margin: 70px auto 0px auto;
+background-color: rgba(255, 153, 204,0.3);
+border-radius: 10px;
+line-height: 23px;
+}
+/*form#tinder
+{
+	margin: 40px;
+
+}*/
+
+b
+{
+	padding: 100px;
+	font-family: avenir;
+	text-align: center;
+
+}
+body
+{   
+	background: url("/Users/ranju/Documents/GitHub/MyLoveForTinder/love5.jpg");
+	background-size: 100%;
+	/*background-attachment: fixed;
+	background-position: no-repeat;*/
+}
+input#love
+{
+	width: 300px;
+	background-color: #ffe6f2;
+	border: 0px;
+	
+
+}
+input#love1
+{
+	background-color: #ffe6f2;
+	border: 0px;
+
+}
+div.bot{
+	margin-left: 10px;
+}
+
