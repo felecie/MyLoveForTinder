@@ -12,11 +12,11 @@ background-color: rgba(255, 153, 204,0.3);
 border-radius: 10px;
 line-height: 23px;
 }
-/*form#tinder
+form#tinder
 {
 	margin: 40px;
 
-}*/
+}
 
 b
 {
@@ -29,8 +29,8 @@ body
 {   
 	background: url("love5.jpg");
 	background-size: 100%;
-	/*background-attachment: fixed;
-	background-position: no-repeat;*/
+	background-attachment: fixed;
+	background-position: no-repeat;
 }
 input#love
 {
