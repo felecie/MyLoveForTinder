@@ -28,7 +28,7 @@ b
 body
 {   
 	background: url("love5.jpg");
-	background-size: 100%;
+	background-size: cover;
 	background-attachment: fixed;
 	background-position: no-repeat;
 }
